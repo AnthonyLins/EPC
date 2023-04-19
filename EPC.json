@@ -1,0 +1,11 @@
+{
+	"hpath": "$EPC",
+	"load_package_once": true,
+    "enable": false,
+    "version": "19.5",
+	"env": [
+		{
+			"EPC": "C:/EPC/EPC_Package/EPC/"
+		}
+	]
+}
